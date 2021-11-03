@@ -1,0 +1,10 @@
+.page-load{
+    padding-bottom: 3rem;
+}
+
+@media (max-width:600px) {
+    .page-load{
+        padding-bottom: 3rem;
+    }
+    
+}
